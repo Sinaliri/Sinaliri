@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sinaliri
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React Js
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
 
